@@ -22,3 +22,12 @@ Besides programming, I enjoy solving problems that matter. I’m an Information 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img
+    aling="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
