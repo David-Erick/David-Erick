@@ -1,6 +1,6 @@
 # 👨‍💻 David Erick
 
-**`Dev || Project Manager`**
+**`Dev || Project Manager || Und. Researcher `**
 
 Besides programming, I enjoy solving problems that matter. I’m an Information Systems student working with IoT and AI, developing solutions for real-world challenges. I’m also interested in project management and academic research, combining technical development, structured planning, and scientific thinking to turn ideas into impactful and well-executed projects.
 
