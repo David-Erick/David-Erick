@@ -33,3 +33,5 @@ Besides programming, I enjoy solving problems that matter. I’m an Information 
 />
 
 ## 📑 Would you like to take a look at my projects?
+
+[A financial analysis of a company using BI concepts, utilizing Python libraries such as Streamlit, Pandas, Plotly, etc.](https://github.com/David-Erick/Projeto_Streamlit_Analise_Vendas?tab=readme-ov-file#dashboard-interativo-de-an%C3%A1lise-de-vendas) 
