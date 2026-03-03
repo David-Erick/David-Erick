@@ -28,12 +28,27 @@ Besides programming, I enjoy solving problems that matter. I’m an Information 
     alt="PYTHON"
     title="PYTHON"
     width="30px"
-    style="padding-right: 10px"
+    style="padding-right: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 ## 📑 Would you like to take a look at my projects??
 
-[A financial analysis of a company using BI concepts, utilizing Python libraries such as Streamlit, Pandas, Plotly, etc.](https://github.com/David-Erick/Projeto_Streamlit_Analise_Vendas?tab=readme-ov-file#dashboard-interativo-de-an%C3%A1lise-de-vendas) 
 
-[Classification of Movements in Sea Turtle Nests via a Machine Learning pipeline](https://github.com/David-Erick/RecPad)
+<img
+    aling="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="20px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/> [A financial analysis of a company using BI concepts, utilizing Python libraries such as Streamlit, Pandas, Plotly, etc.](https://github.com/David-Erick/Projeto_Streamlit_Analise_Vendas?tab=readme-ov-file#dashboard-interativo-de-an%C3%A1lise-de-vendas) 
+
+<img
+    aling="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="20px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/> [Classification of Movements in Sea Turtle Nests via a Machine Learning pipeline](https://github.com/David-Erick/RecPad)
