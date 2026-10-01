@@ -32,6 +32,15 @@ Besides programming, I enjoy solving problems that matter. I’m an Information 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
+<img
+    aling="left"
+    alt="R"
+    title="R"
+    width="30px"
+    style="padding-right: 10px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+/>
+
 ## 📑 Would you like to take a look at my projects??
 
 
